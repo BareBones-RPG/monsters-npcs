@@ -1,4 +1,4 @@
-# Monsters and NPCs Creation [Updated 11/22/2023]
+# Barebones RPG Monsters and NPCs Creation
 
 Greetings, fellow players!
 It's been a while since my last post. This guide will help you create NPCs and monsters for your Barebones RPG session. We'll delve into the categories, hit dice, dice rolls, and abilities, covering the essentials for bringing monsters and enemies to life in Barebones RPG. GMs can use dice like d4, d8, d10, and d12 for number-appearing creatures or monsters.
@@ -61,7 +61,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 ---
 
 ## Swarm
-||
+|||
 |:---|:---|
 |HD| _**1 base** + nHD (x HP)_ | 
 |Att| 1x Feature or Weapon: _ndn damage_| 
