@@ -71,7 +71,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 **Example for Swarm:**
 
 ### Swarm of Insects
-||
+|||
 |:---|:---|
 |HD| _**1 base** + 3HD (10 HP)_ | 
 |Att| _1x Swarm: 2 with armor or 4 without armor damage_| 
@@ -79,7 +79,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.| 1 or 1d3|
 
 ### Swarm of Bats
-||
+|||
 |:---|:---|
 |HD| _**1 base** + HD_ (2 hp)|
 |Att| 1x Swarm _1d6 damage_|
@@ -87,7 +87,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.| 1d12|
 
 ### Stirges
-||
+|||
 |:---|:---|
 |HD| _**1 base** + HD_ (4 hp)|
 |Arm|No armor|
@@ -98,7 +98,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 ---
 
 ## Small or Medium 
-||
+|||
 |:---|:---|
 |HD| _**2 base** + nHD_ (x hp)|
 |Arm| -dx |
@@ -109,7 +109,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 **Example for Small or Medium:**
 
 ### Acolyte
-||
+|||
 |:---|:---|
 |HD| 2 base + HD (6 HP)|
 |Arm|-1|
@@ -118,7 +118,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na|1d6|
 
 ### Ape, White
-||
+|||
 |:---|:---|
 |HD|2 base + 4 HD (14 hp)|  
 |Arm| -d3 |                                                                      
@@ -127,7 +127,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d6|
 
 ### Bandit
-||
+|||
 |:---|:---|
 |HD| 2 base + HD (5 hp) |
 |Arm| -1|
@@ -137,7 +137,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d8/(3d10)|
 
 ### Berserker
-||
+|||
 |:---|:---|
 |HD|2 base + 1+1 HD (8 hp)|
 |Arm|-1|
@@ -146,7 +146,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na|1d6/(3d10)|
 
 ### Bugbear
-||
+|||
 |:---|:---|
 |HD| 2 base + 4 HD (14 hp) |
 |Arm| -d3|
@@ -155,7 +155,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 | Na.| 2d4|
  
 ### Doppelgänger
-||
+|||
 |:---|:---|
 |HD|2 base + 4 HD (16 hp)| 
 |Arm| -d3|
@@ -164,7 +164,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d6/(2d6)| 
 
 ### Dwarf
-||
+|||
 |:---|:---|
 |HD|2 base + 2 HD (8 hp)|
 |Arm| -d2|
@@ -173,7 +173,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na|1d6/(5d8)|
 
 ### Elf
-||
+|||
 |:---|:---|
 |HD| 2 base + 2 HD (8  hp)|
 |Arm|-d2|
@@ -183,7 +183,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na|1d4/(2d12)|
 
 ### Halfling
-||
+|||
 |:---|:---|
 |HD|2 base + HD (5 hp)|
 |Arm| |
@@ -192,7 +192,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|3d6|
 
 ### Goblin
-||
+|||
 |:---|:---|
 |HD|2 base + 1-1 HD (6 hp)|
 |Arm| -1|
@@ -201,7 +201,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d4*2|
 
 ### Ghoul
-||
+|||
 |:---|:---|
 |HD| 2 base+ 2 HD (8  hp)|
 |Arm| -d2|
@@ -210,7 +210,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d6|
 
 ### Harpy
-||
+|||
 |:---|:---|
 |HD| 2 base + 3 HD (10 hp)|
 |Arm| -d3|
@@ -219,7 +219,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d6|
 
 ### Hobgoblin
-||
+|||
 |:---|:---|
 |HD| 2 base +2 HD (8  hp)|
 |Arm| -d2|
@@ -228,7 +228,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 | Na.|1d4|
 
 ### Imp
-||
+|||
 |:---|:---|
 |HD| 2 base + 3 HD (11  hp)|
 |Arm| -d3|
@@ -237,7 +237,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 |Na.|1d3|
 
 ### Kobold
-||
+|||
 |:---|:---|
 |HD|2 base+ ½ HD (3 hp)|
 |Arm| -1|
@@ -247,7 +247,7 @@ Is an unique trait that a monster or NPC possesses. These abilities can have var
 
 
 ## Name: Vile Sporefiend
-||
+|||
 |:---|:---|
 |HD| _**2 base** + 3 HD (11 HP)_ | 
 |Arm| -d2 |
